@@ -49,7 +49,13 @@ Os usuários encontrarão as seguintes funcionalidades:
 
 Projeto desenvolvido para aplicar estudos do [Nodejs][nodejs] utilizando  [Typescript][typescript] na semana NextLevelWeek 5 🚀
 
+## Layout
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="support-chat" title="#support-chat" src="./assets/screen3.png" width="400px"> <br>
 
+  <img alt="support-chat" title="#support-chat" src="./assets/screen2.png" width="400px" height="508px">
+  <img alt="support-chat" title="#support-chat" src="./assets/screen1.png" width="365px">
+</p>
 ## Demo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
